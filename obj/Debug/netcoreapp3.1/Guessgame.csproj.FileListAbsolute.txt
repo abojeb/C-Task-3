@@ -1,0 +1,3 @@
+C:\Users\aboje i\Guessgame\obj\Debug\netcoreapp3.1\Guessgame.csprojAssemblyReference.cache
+C:\Users\aboje i\Guessgame\obj\Debug\netcoreapp3.1\Guessgame.AssemblyInfoInputs.cache
+C:\Users\aboje i\Guessgame\obj\Debug\netcoreapp3.1\Guessgame.AssemblyInfo.cs
